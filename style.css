@@ -1,0 +1,50 @@
+h3 {
+    color: rgb(255, 88, 180)
+}
+
+h2 {
+    color: red;
+}
+
+body {
+    /* background-color: rgb(214, 41, 191); */
+    background-color: #ffff00;
+}
+
+button {
+    color: pink;
+}
+
+#box {
+    background-color: rgb(255, 255, 0);
+}
+.heading{
+    color:red;
+}
+.button1{
+    background-color: green;
+}
+.heading{
+    text-align: center;
+    text-decoration:blue wavy underline;
+    font-weight: 900;
+}
+.lorem{
+     text-align: right;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.lorem1{
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+#para1{
+    font-size: 30px;
+    line-height: 10px;
+}
+#para2{
+    font-size: 50px;
+}
+#para3{
+    font-size: 90px;
+}
